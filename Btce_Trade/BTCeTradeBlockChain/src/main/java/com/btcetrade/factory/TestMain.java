@@ -11,6 +11,6 @@ public class TestMain {
 		System.out.println(resultINR+"INR");
 		ICurrency currencyUSD=factory.getCurrecyININRORUSD("USD");
 		BigDecimal resultUSD=currencyUSD.changeCurrency((float)79837.5390625);
-		System.out.println(resultUSD+"USD");
+		
  	}
 }
