@@ -1,0 +1,8 @@
+com\btcetrade\bitcoin\service\BTCeTradeService.class
+com\btcetrade\bitcoin\service\BTCAdminAddressGenerate.class
+com\btcetrade\bitcoin\service\config\BTCeTradeEmailService.class
+com\btcetrade\bitcoin\service\address\UserAddress.class
+com\btcetrade\bitcoin\service\config\BTCeSMSService.class
+com\btcetrade\bitcoin\service\config\BTCeSMSServiceImpl.class
+com\btcetrade\bitcoin\service\BTCeTradeServiceImpl.class
+com\btcetrade\bitcoin\service\config\BTCeTradeEmailServiceImpl.class
